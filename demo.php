@@ -15,6 +15,7 @@
 
 <div class="container mt-5">
   <h1>page index</h1>
+  <h1>page for serverx</h1>
 </div>
 
 <?php include 'footer.php' ?>
